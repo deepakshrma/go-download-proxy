@@ -1,1 +1,1 @@
-web: download-proxy
+web: bin/download-proxy
